@@ -1,1 +1,2 @@
-"# projet-machine-learining" 
+"# projet-machine-learining
+Classification (régression logistique)" 
